@@ -1,0 +1,6 @@
+customers_processed : 26
+products_processed : 20
+sales_processed : 41
+duplicates_removed : 2
+missing_values_handled : 8
+records_loaded : 41
