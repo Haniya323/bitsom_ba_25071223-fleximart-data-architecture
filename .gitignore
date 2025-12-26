@@ -1,6 +1,6 @@
 # Python
 __pycache__/
-*.pyc
+.pyc
 .env
 venv/
 
@@ -13,8 +13,8 @@ venv/
 Thumbs.db
 
 # Database
-*.db
-*.log
+.db
+.log
 
 # Large files
-*.zip
+.zip
